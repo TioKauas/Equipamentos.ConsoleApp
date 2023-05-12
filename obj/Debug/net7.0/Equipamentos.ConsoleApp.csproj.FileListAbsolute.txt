@@ -1,0 +1,15 @@
+D:\Projetos C#\Exercicios-Academia\Equipamentos.ConsoleApp\bin\Debug\net7.0\Equipamentos.ConsoleApp.exe
+D:\Projetos C#\Exercicios-Academia\Equipamentos.ConsoleApp\bin\Debug\net7.0\Equipamentos.ConsoleApp.deps.json
+D:\Projetos C#\Exercicios-Academia\Equipamentos.ConsoleApp\bin\Debug\net7.0\Equipamentos.ConsoleApp.runtimeconfig.json
+D:\Projetos C#\Exercicios-Academia\Equipamentos.ConsoleApp\bin\Debug\net7.0\Equipamentos.ConsoleApp.dll
+D:\Projetos C#\Exercicios-Academia\Equipamentos.ConsoleApp\bin\Debug\net7.0\Equipamentos.ConsoleApp.pdb
+D:\Projetos C#\Exercicios-Academia\Equipamentos.ConsoleApp\obj\Debug\net7.0\Equipamentos.ConsoleApp.csproj.AssemblyReference.cache
+D:\Projetos C#\Exercicios-Academia\Equipamentos.ConsoleApp\obj\Debug\net7.0\Equipamentos.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Exercicios-Academia\Equipamentos.ConsoleApp\obj\Debug\net7.0\Equipamentos.ConsoleApp.AssemblyInfoInputs.cache
+D:\Projetos C#\Exercicios-Academia\Equipamentos.ConsoleApp\obj\Debug\net7.0\Equipamentos.ConsoleApp.AssemblyInfo.cs
+D:\Projetos C#\Exercicios-Academia\Equipamentos.ConsoleApp\obj\Debug\net7.0\Equipamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Exercicios-Academia\Equipamentos.ConsoleApp\obj\Debug\net7.0\Equipamentos.ConsoleApp.dll
+D:\Projetos C#\Exercicios-Academia\Equipamentos.ConsoleApp\obj\Debug\net7.0\refint\Equipamentos.ConsoleApp.dll
+D:\Projetos C#\Exercicios-Academia\Equipamentos.ConsoleApp\obj\Debug\net7.0\Equipamentos.ConsoleApp.pdb
+D:\Projetos C#\Exercicios-Academia\Equipamentos.ConsoleApp\obj\Debug\net7.0\Equipamentos.ConsoleApp.genruntimeconfig.cache
+D:\Projetos C#\Exercicios-Academia\Equipamentos.ConsoleApp\obj\Debug\net7.0\ref\Equipamentos.ConsoleApp.dll
